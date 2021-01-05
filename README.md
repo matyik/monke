@@ -11,6 +11,6 @@ Monke.js official open source repository
 ### Logging
 * Table: `monke.table([<Rows>])`
 ** Example: `monke.table([['Ape', 'Monke', 'Banana'], ['Golira', 'Le Monke', 'Yellow'], ['Chimanzee', 'Me', 'Brown'])`
-** Returns: `  __Ape__  | __Monke__ | __Banana__
-                Golira  | Le Monke  |   Yellow
+** Returns: `  __Ape__  | __Monke__ | __Banana__  
+                Golira  | Le Monke  |   Yellow  
               Chimanzee |     Me    |   Brown`
